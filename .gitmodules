@@ -1,0 +1,3 @@
+[submodule "unity/Assets/sockjs"]
+	path = unity/Assets/sockjs
+	url = git@github.com:Extrawurst/sockjs-unity3d-xhr.git

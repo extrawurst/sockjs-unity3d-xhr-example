@@ -1,5 +1,4 @@
-﻿using System.Net.Sockets;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class chatclient : MonoBehaviour {
 
