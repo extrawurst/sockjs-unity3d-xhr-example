@@ -2,7 +2,7 @@ sockjs-unity3d-xhr
 ==================
 
 sockjs client implementation for unity3D using xhr polling (so this works with unity free license).
-just import this repo (for example as a submodule) and see the usage example below or try the extensive example at https://github.com/Extrawurst/sockjs-unity3d-xhr-example
+just import https://github.com/Extrawurst/sockjs-unity3d-xhr (for example as a submodule) and see the usage example below or the example unity project in this repo.
 
 ==================
 Usage
